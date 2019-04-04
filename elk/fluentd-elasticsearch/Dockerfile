@@ -1,2 +1,1 @@
-
-FROM k8s.gcr.io/fluentd-elasticsearch:v2.5.0
+FROM  k8s.gcr.io/heapster-grafana-amd64:v5.0.4
